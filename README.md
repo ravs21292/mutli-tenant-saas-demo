@@ -254,20 +254,6 @@ The application is designed to be deployed on any cloud provider:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Support
+## Note:  Showcase for Demo Portfolioi Project.
 
-For support and questions:
-- Create an issue in the repository
-- Check the documentation
-- Review the API documentation
-
-## Roadmap
-
-- [ ] Mobile app support
-- [ ] Advanced analytics dashboard
-- [ ] Webhook system
-- [ ] Advanced file processing
-- [ ] Multi-language support
-- [ ] Advanced reporting
-- [ ] API rate limiting per tenant
-- [ ] Advanced security features
+## Author: Ravinder Singh
