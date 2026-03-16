@@ -1,5 +1,7 @@
 # Multi-tenant SaaS Application
-This project is part of my backend engineering portfolio.
+This project is part of my backend engineering portfolio. 
+The backend architecture, API design, and implementation were designed and built by me while exploring and learning core backend development concepts.
+
 A comprehensive multi-tenant SaaS application built with Python FastAPI, React, and PostgreSQL. Designed for B2B teams with strict tenant isolation, role-based access control, and subscription management.
 
 ## Features
